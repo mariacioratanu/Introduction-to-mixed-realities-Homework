@@ -10,12 +10,12 @@
 
 ### 📋Lab 1 2024-2025
 - Acest proiect implementează o experiență AR folosind Unity și Vuforia, în care două personaje animate își schimbă animațiile pe baza distanței dintre ele.
--- am încărcat un screen recording cu personajele și cele două image trackers după ce am realizat build-ul pe Android, pentru a demonstra cum acestea își schimbă animațiile
--- am încărcat poze cu rezultatul final al primei teme
+** am încărcat un screen recording cu personajele și cele două image trackers după ce am realizat build-ul pe Android, pentru a demonstra cum acestea își schimbă animațiile
+** am încărcat poze cu rezultatul final al primei teme
 - Pașii pe care i-am urmat:
 
--- am configurat un proiect în Unity 2022.3 LTS cu Vuforia pentru a plasa personaje 3D pe două imagini printate și pentru a urmări distanța dintre ele.
--- am creat un Animator Controller pentru a seta animațiile Idle și Attack și am configurat tranzițiile între stări.
--- am scris un script C# care detectează distanța dintre personaje și schimbă animațiile de la Idle la Attack atunci când distanța scade sub 0.25 metri.
+** am configurat un proiect în Unity 2022.3 LTS cu Vuforia pentru a plasa personaje 3D pe două imagini printate și pentru a urmări distanța dintre ele.
+** am creat un Animator Controller pentru a seta animațiile Idle și Attack și am configurat tranzițiile între stări.
+** am scris un script C# care detectează distanța dintre personaje și schimbă animațiile de la Idle la Attack atunci când distanța scade sub 0.25 metri.
 
 
