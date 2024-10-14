@@ -18,4 +18,18 @@
 * am creat un Animator Controller pentru a seta animațiile Idle și Attack și am configurat tranzițiile între stări.
 * am scris un script C# care detectează distanța dintre personaje și schimbă animațiile de la Idle la Attack atunci când distanța scade sub 0.25 metri.
 
+### 📋Lab 2 2024-2025
+- în acest laborator, am implementat o experiență de tip minigolf VR folosind OpenXR și XR Interaction Toolkit.
+
+Pașii pe care i-am urmat:
+
+* am configurat proiectul Unity cu OpenXR și XR Interaction Toolkit, urmând pașii pentru setup-ul complet.
+* am configurat XR Device Simulator pentru a testa experiența fără un headset VR.
+* am creat un teren de minigolf unde mingea este lovită de o crosă. Am adăugat sistemul de grab pentru a apuca crosa (dar și mingea)
+* am implementat un sistem de scor care contorizează numărul de lovituri și calculează scorul (5 puncte per lovitură).
+* am adăugat efecte vizuale (Particle Sistem la lovirea mingii cu crosa, un teren de minigolf complex cu elemente decorative) și o „gaură” de minigolf (adică un Socket Interactor)
+* evenimentele sunt semnalate vizual pe un panou UI, unde este afișat numărul de lovituri și scorul.
+
+### 📋Lab 3 2024-2025
+-acest proiect modelează o mână 3D în Blender
 
