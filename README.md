@@ -9,7 +9,7 @@
 ### 👥Authors:
 
 - Ciorâțanu Maria (3A5)
-- Pâncă Aida-Gabrila (3A5)
+- Pâncă Aida-Gabriela (3A5)
 
 ### 📋Lab 1 2024-2025
 - acest proiect implementează o experiență AR folosind Unity și Vuforia, în care două personaje animate își schimbă animațiile pe baza distanței dintre ele.
