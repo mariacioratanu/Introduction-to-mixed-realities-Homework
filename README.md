@@ -1,7 +1,7 @@
 # ✏️🎀Introduction-to-mixed-realities
 
-## - this is a repository for a collaborative homework made by Ciorâțanu Maria and Pâncă Aida-Gabriela, year III, group A5, Faculty of Computer Science Iași. 
-## - the homework presented is part of the evaluation in the ”Introduction to mixed realities” subject. 
+- this is a repository for a collaborative homework made by Ciorâțanu Maria and Pâncă Aida-Gabriela, year III, group A5, Faculty of Computer Science Iași.
+- the homework presented is part of the evaluation in the ”Introduction to mixed realities” subject. 
 
 ### 👥Authors:
 
@@ -21,12 +21,14 @@ Pașii pe care i-am urmat:
 
 ### 📋Lab 2 2024-2025
 - în acest laborator, am implementat o experiență de tip minigolf VR folosind OpenXR și XR Interaction Toolkit.
+- am încărcat poze cu rezultatul final
+- am încărcat un screen recording cu experiența VR de minigolf testată în Unity fără ajutorul unui Headset, am prezentat toate funcționalitățile, cum arată, cum se poate juca etc.
 
 Pașii pe care i-am urmat:
 
 * am configurat proiectul Unity cu OpenXR și XR Interaction Toolkit, urmând pașii pentru setup-ul complet.
 * am configurat XR Device Simulator pentru a testa experiența fără un headset VR.
-* am creat un teren de minigolf unde mingea este lovită de o crosă. Am adăugat sistemul de grab pentru a apuca crosa (dar și mingea)
+* am creat un teren de minigolf unde mingea este lovită de o crosă. Am adăugat sistemul de grab pentru a apuca crosa (și mingea) dar și cel de Hit pentru a lovi mingea. 
 * am implementat un sistem de scor care contorizează numărul de lovituri și calculează scorul (5 puncte per lovitură).
 * am adăugat efecte vizuale (Particle Sistem la lovirea mingii cu crosa, un teren de minigolf complex cu elemente decorative) și o „gaură” de minigolf (adică un Socket Interactor)
 * evenimentele sunt semnalate vizual pe un panou UI, unde este afișat numărul de lovituri și scorul.
