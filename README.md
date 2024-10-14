@@ -2,7 +2,7 @@
 
 - this is a repository for a collaborative homework made by Ciorâțanu Maria and Pâncă Aida-Gabriela, year III, group A5, Faculty of Computer Science Iași.
 - the homework presented is part of the evaluation in the ”Introduction to mixed realities” subject. 
-### 📌Demo lab 1:
+### 📌Demo lab 1: https://youtube.com/shorts/Ttmk4akJQL4?feature=share
 ### 📌Demo lab 2:
 ### 📌Demo lab 3:
 
