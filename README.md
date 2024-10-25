@@ -5,7 +5,7 @@
 ### 📌Demo lab 1: https://youtube.com/shorts/Ttmk4akJQL4?feature=share
 ### 📌Demo lab 2: https://youtu.be/ui2TboxFp3Y
 ### 📌Demo lab 3 in Blender: https://youtu.be/7you8gHTvMM
-### 📌Demo lab 3 in Unity:
+### 📌Demo lab 3 in Unity: https://youtu.be/fv89ulnm8us?si=bbzkOyRmNAmydRRr
 
 ### 👥Authors:
 
@@ -47,6 +47,6 @@ Pașii pe care i-am urmat:
 * am realizat UV unwrapping corect pentru texturare fără distorsiuni (nu exista overlapped UV islands) și am aplicat un skin material de pe Blenderkit.
 * am înfrumusețat mâna adăugând 2 inele cu texturi diferite și unghii colorate.
 * am exportat modelul ca FBX și l-am importat în Unity (am încărcat și fișierul .fbx pe github).
-* am atașat mâinile modelate la controllerele din scenă, folosind Unity XR Toolkit.
+* am atașat mâinile modelate la controllerele din scenă, folosind Unity XR Toolkit (am pus videoclip demo și imagine, nu am mai încărcat iar proiectul Unity deoarece era prea mare).
 * am realizat o animație pentru acțiunea de grab în Blender.
 
