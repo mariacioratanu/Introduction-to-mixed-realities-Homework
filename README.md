@@ -46,7 +46,7 @@ Pașii pe care i-am urmat:
 * am modelat o mână 3D cu 5 degete în Blender.
 * am realizat UV unwrapping corect pentru texturare fără distorsiuni (nu exista overlapped UV islands) și am aplicat un skin material de pe Blenderkit.
 * am înfrumusețat mâna adăugând 2 inele cu texturi diferite și unghii colorate.
-* am exportat modelul ca FBX și l-am importat în Unity.
+* am exportat modelul ca FBX și l-am importat în Unity (am încărcat și fișierul .fbx pe github).
 * am atașat mâinile modelate la controllerele din scenă, folosind Unity XR Toolkit.
 * am realizat o animație pentru acțiunea de grab în Blender.
 
