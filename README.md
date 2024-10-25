@@ -4,7 +4,8 @@
 - the homework presented is part of the evaluation in the ”Introduction to mixed realities” subject. 
 ### 📌Demo lab 1: https://youtube.com/shorts/Ttmk4akJQL4?feature=share
 ### 📌Demo lab 2: https://youtu.be/ui2TboxFp3Y
-### 📌Demo lab 3:
+### 📌Demo lab 3 in Blender: https://youtu.be/7you8gHTvMM
+### 📌Demo lab 3 in Unity:
 
 ### 👥Authors:
 
@@ -38,4 +39,13 @@ Pașii pe care i-am urmat:
 
 ### 📋Lab 3 2024-2025
 - acest proiect modelează o mână 3D în Blender
+- în acest laborator, am creat un model 3D al unei mâini în Blender și l-am integrat într-o experiență VR în Unity (cea de la laboratorul 2)
+
+Pașii pe care i-am urmat:
+
+* am modelat o mână 3D cu 5 degete în Blender.
+* am realizat UV unwrapping corect pentru texturare fără distorsiuni (nu exista overlapped UV islands) și am aplicat un skin material de pe Blenderkit.
+* am exportat modelul ca FBX și l-am importat în Unity.
+* am atașat mâinile modelate la controllerele din scenă, folosind Unity XR Toolkit.
+* am realizat o animație pentru acțiunea de grab în Blender.
 
